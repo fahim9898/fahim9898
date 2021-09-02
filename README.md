@@ -13,13 +13,13 @@
 <p align="center">
   <em>
     This is ME, Fahim Sanghariyat, a <b>Full Stack Developer</b> and <b>Open Source Enthusiast</b>. <br>
-    A budding <b>Creative Web Design, Web Development</b> and a use<b>Best Coding practices</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Creative Web Design, Web Development</b> and a use<b> Best Coding practices</b>&nbsp; &nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> and 
+    <b>excel</b> &nbsp.
   </em> 
-  <br>
-   <b><i>Collaboration First Code Second!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+    <br><br>
+   <b><i>Collaboration First Code Second!!!</i></b> <br>
 </p>
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
