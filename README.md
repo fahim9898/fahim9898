@@ -46,9 +46,9 @@
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
   <hr>
-<p><img align="left" width="360" src="https://github-readme-stats.vercel.app/api?username=fahim9898&show_icons=true&theme=gotham" alt="fahim sanghariyat" /></p>
+<p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=fahim9898&show_icons=true&theme=gotham" alt="fahim sanghariyat" /></p>
 
-<p>&nbsp;<img align="center" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim9898&theme=gotham&layout=compact" alt="fahim sanghariyat" width="410" /></p>
+<p>&nbsp;<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim9898&theme=gotham&layout=compact" alt="fahim sanghariyat" width="410" /></p>
 
 <hr>
 
